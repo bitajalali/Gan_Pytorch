@@ -5,3 +5,5 @@ fake image fed by the generator and the original images, this structure is done 
 in the following, we show the structure of the model and a few samples of images that the GAN model produced:
 
 ![2](https://user-images.githubusercontent.com/115353236/222992371-4ab99d22-cd43-410a-b45a-bd85926f9084.PNG)
+
+![2_](https://user-images.githubusercontent.com/115353236/222997288-fa48c27e-ffee-46ff-ac9c-c2b8b2e0d901.PNG)
